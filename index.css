@@ -104,3 +104,9 @@ nav div{
 .project h3{
   color:#38bdf8;
 }
+footer{
+  display: flex;
+    justify-content: space-between;
+  padding: 20px 60px;
+  background: #000000;
+}
