@@ -111,10 +111,28 @@ footer{
     padding: 30px;
     background: #000000;
 }
-=======
+footer{
   display: flex;
-    justify-content: space-between;
+  justify-content: space-between;
   padding: 20px 60px;
-  background: #000000;
+  background-color: #000000;
+}
+footer i{
+    padding: 20px;
+    margin-top:10px;
+}
+.btn {
+  display: inline-block;
+  padding: 12px 24px;
+  background: #6c63ff;
+  color: white;
+  text-decoration: none;
+  border-radius: 8px;
+  font-weight: bold;
+  transition: 0.3s;
+}
+
+.btn:hover {
+  background: #5548e8;
 }
 >>>>>>> 54329f1f428272d0f8156c603d27e649c60ef7f4
