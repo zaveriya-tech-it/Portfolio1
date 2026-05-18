@@ -105,17 +105,11 @@ nav div{
   color:#38bdf8;
 }
 footer{
-<<<<<<< HEAD
-    display: flex;
-    justify-content: space-between;
-    padding: 30px;
-    background: #000000;
-}
-footer{
   display: flex;
   justify-content: space-between;
   padding: 20px 60px;
   background-color: #000000;
+<<<<<<< HEAD
 }
 footer i{
     padding: 20px;
@@ -134,5 +128,5 @@ footer i{
 
 .btn:hover {
   background: #5548e8;
+
 }
->>>>>>> 54329f1f428272d0f8156c603d27e649c60ef7f4
