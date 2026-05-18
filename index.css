@@ -109,13 +109,12 @@ footer{
   justify-content: space-between;
   padding: 20px 60px;
   background-color: #000000;
-<<<<<<< HEAD
 }
 footer i{
     padding: 20px;
     margin-top:10px;
 }
-.btn {
+.btn1 {
   display: inline-block;
   padding: 12px 24px;
   background: #6c63ff;
@@ -126,7 +125,7 @@ footer i{
   transition: 0.3s;
 }
 
-.btn:hover {
+.btn1:hover {
   background: #5548e8;
 
 }
