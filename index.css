@@ -105,8 +105,16 @@ nav div{
   color:#38bdf8;
 }
 footer{
+<<<<<<< HEAD
     display: flex;
     justify-content: space-between;
     padding: 30px;
     background: #000000;
 }
+=======
+  display: flex;
+    justify-content: space-between;
+  padding: 20px 60px;
+  background: #000000;
+}
+>>>>>>> 54329f1f428272d0f8156c603d27e649c60ef7f4
