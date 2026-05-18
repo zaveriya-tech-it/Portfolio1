@@ -113,8 +113,8 @@ footer{
 }
 =======
   display: flex;
-    justify-content: space-between;
+  justify-content: space-between;
   padding: 20px 60px;
-  background: #000000;
+  background-color: #000000;
 }
 >>>>>>> 54329f1f428272d0f8156c603d27e649c60ef7f4
